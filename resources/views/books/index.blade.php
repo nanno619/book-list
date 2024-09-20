@@ -2,7 +2,7 @@
 
 @section('content')
 
-    <h1 class="mb-10 text-2xl">Books</h1>
+    <h1 class="mb-10 text-2xl">Bookss</h1>
 
     {{-- NOTE: Search by title --}}
     <form method="GET" action="{{ route('books.index') }}" class="mb-4 flex space-x-2 items-center">
